@@ -1,4 +1,6 @@
 {
-  "allowed": [],
+  "allowed": [
+    "dfa4e89e666c099277db5217e0e48c72275ea8fa308747accb246e23dd28121c"
+  ],
   "banned": []
 }
